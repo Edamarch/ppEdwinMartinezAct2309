@@ -65,10 +65,10 @@
 	</tr>
 	<tr>
 		<td>
-			<img src="imagenes/usac.png" style="width: 100px; height:100px ">
+			<img src="imagenes/usac.png" style="width: 10px; height:10px ">
 		</td>
 		<td> 
-			<img src="imagenes/efpem.jpg" style="width: 100px; height:100px ">
+			<img src="imagenes/efpem.jpg" style="width: 10px; height:10px ">
 		</td>
 	</tr>
 
