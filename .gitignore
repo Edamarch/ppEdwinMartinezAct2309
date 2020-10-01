@@ -1,0 +1,19 @@
+# creado por Jaqueline Monterroso
+#archivos a ignorar
+#Archivos especifico
+.txt
+#ignorar archivos de Microsoft Word
+.doc
+.docx
+# ignorar archivos Microsoft Excel 
+.xls
+.xlsx
+
+
+#ignorar archivos Gif
+.gif
+
+#ignorar una carpeta
+datos/
+#ignorar carpeta configuracion
+#git/
