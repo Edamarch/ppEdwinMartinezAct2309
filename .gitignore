@@ -8,11 +8,8 @@
 # ignorar archivos Microsoft Excel 
 .xls
 .xlsx
-
-
 #ignorar archivos Gif
 .gif
-
 #ignorar una carpeta
 datos/
 #ignorar carpeta configuracion
